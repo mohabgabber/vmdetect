@@ -2,7 +2,7 @@ module github.com/mohabgabber/vmdetect
 
 go 1.24
 
-require golang.org/x/sys v0.33.0
+require golang.org/x/sys v0.34.0
 
 require (
 	github.com/go-ole/go-ole v1.3.0 // indirect
